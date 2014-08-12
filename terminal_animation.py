@@ -18,7 +18,7 @@ duration = 0.05    # The duration of time in seconds between each frame.
 cycles = 100       # The number of cycles the animation plays through.
 
 def animate():
-    """ A function that iterates through the frames, printing then clearing each one to create an animation. """
+    """Iterate through the frames, printing then clearing each one to create an animation."""
     count = 0
     while count < cycles:
         for frame in animation.frames:
