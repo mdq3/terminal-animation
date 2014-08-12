@@ -7,4 +7,4 @@ Includes example of a running man.
 
 
 terminal-animation.py - main module which manages animation  
-animation.py          - module which defines animation frames  
+animation.py - module which defines animation frames  
